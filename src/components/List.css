@@ -1,0 +1,6 @@
+.List {
+    padding: 20px;
+    margin-left: 20px;
+    border: black 2px solid;
+    list-style: none;
+}
